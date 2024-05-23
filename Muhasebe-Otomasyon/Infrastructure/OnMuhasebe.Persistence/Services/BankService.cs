@@ -1,0 +1,13 @@
+﻿using OnMuhasebe.Application.IServices;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OnMuhasebe.Persistence.Services
+{
+    public  class BankService:IBankService
+    {
+    }
+}
